@@ -1,0 +1,8 @@
+<resources>
+        <string name="app_name">Comparador de Textos</string>
+    <string name="time_and_day_format">Hora: %1$s\nDía: %2$s</string>
+    <string name="button_label">Comparar</string>
+    <string name="hint_text">Ingrese Texto</string>
+    <string name="similar_text">!! :) SON SIMILARES!!</string>
+    <string name="different_text">!! :( SON DIFERENTES !!</string>
+</resources>
